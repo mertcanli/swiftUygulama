@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         label.text = "merhaba"
         
+        var str= ""
         
         
     }
